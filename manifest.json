@@ -1,0 +1,10 @@
+{
+  "name": "Shack_Comfort_Ascended",
+  "version_number": "1.0.1",
+  "website_url": "",
+  "description": "Comfort objects under a roof link into chains within 10 m of each other, and a chain counts as one: anywhere in your house you get the whole house's comfort. Moving dots show the links. Settings sync from the server.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351",
+    "ValheimModding-Jotunn-2.30.2"
+  ]
+}
